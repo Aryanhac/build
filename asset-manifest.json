@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe651cd0.css",
+    "main.js": "/static/js/main.daa08b09.js",
+    "static/media/Travel.png": "/static/media/Travel.e9884a442c33b6d4da41.png",
+    "static/media/Ecommerce.png": "/static/media/Ecommerce.989ba802a25e7238e148.png",
+    "static/media/PortFolio.png": "/static/media/PortFolio.40668d4d0f53c08bb77b.png",
+    "static/media/Weather.png": "/static/media/Weather.6ae6e30fa4ffafd8c4d4.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/chatting.jpg": "/static/media/chatting.67c82247e8b4b3716c55.jpg",
+    "static/media/TicTacToe.png": "/static/media/TicTacToe.f44093f0b614d448b248.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/wordpress.png": "/static/media/wordpress.dc37cb13253322844ee1.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.fe651cd0.css.map": "/static/css/main.fe651cd0.css.map",
+    "main.daa08b09.js.map": "/static/js/main.daa08b09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe651cd0.css",
+    "static/js/main.daa08b09.js"
+  ]
+}
